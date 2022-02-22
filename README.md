@@ -1,6 +1,4 @@
-I'm an analyst in every aspect, thus the last ten years of experience across digital advertising, I mainly focus on critical thinking towards actionable insights such as media research tools, digital strategic planning, and Ad Tech tools for buying and reporting.
-
-I’m self-motivated, and among many things that inspire me by far is team development and deep dive into time-sensitive challenges. Over the years, I found my place in utilising my analytical skills in the direction of strategic selling to support and challenge clients. After working for some of the most exciting clients such as Amazon, Samsung and Nivea you appreciated the real value of meaningful insights when it comes to advising matters like, what are the best digital media options to invest in, how to track results and the best ways to communicate complex and technical issues clearly.
+Over the last ten years of experience across digital advertising and marketingOver the last ten years of experience across digital advertising and marketing, I mainly focus on critical thinking towards actionable insights by using multiple sources from media research tools, programmatic media buying platforms and site analytics. Whether using just Excel or querying via SQL and manipulating in Python/Pandas, I love to  bring up new and challenging questions. Whether using just Excel or querying via SQL and manipulating in Python/Pandas, I love to  bring up new and challenging questions. 
 
 At this repository you can get to know a bit about my projects. 
 
