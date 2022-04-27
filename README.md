@@ -1,4 +1,4 @@
-Over the last ten years of experience across digital advertising and marketingOver the last ten years of experience across digital advertising and marketing, I mainly focus on critical thinking towards actionable insights by using multiple sources from media research tools, programmatic media buying platforms and site analytics. Whether using just Excel or querying via SQL and manipulating in Python/Pandas, I love to  bring up new and challenging questions. Whether using just Excel or querying via SQL and manipulating in Python/Pandas, I love to  bring up new and challenging questions. 
+Over the last ten years of experience across digital advertising and marketing, I mainly focus on critical thinking towards actionable insights by using multiple sources from media research tools, programmatic media buying platforms and site analytics. Whether using just Excel or querying via SQL and manipulating in Python/Pandas, I'm very familiar with helping clients to understand and improve the effectiveness of their ad investment.
 
 At this repository you can get to know a bit about my projects. 
 
