@@ -1,21 +1,8 @@
-Over the last ten years of experience across digital advertising and marketing, I mainly focus on critical thinking towards actionable insights by using multiple sources from media research tools, programmatic media buying platforms and site analytics. Whether using just Excel or querying via SQL and manipulating in Python/Pandas, I'm very familiar with helping clients to understand and improve the effectiveness of their ad investment.
+Marketing and analytics professional with over ten years of experience in digital advertising across 3 out of 5 leading advertising groups, helping top-tier advertisers increase the efficiency of media budgets of over $35 million per year. My mission is to provide actionable insights by combining industry expertise, critical thinking and findings from analysing data from multiple internal and external sources. Hands-on experience with research tools (i.e. Roy Morgan), Python, SQL, Google/Adobe Analytics and dashboards tools such as Power BI and Data Studio.
 
-At this repository you can get to know a bit about my projects. 
+Here's you can get to know a bit about my skills. 
 
-Here are my key skills:
-
--Python (Pandas, Numpy, Seaborn, Scikit-learn, statsmodels, matplotlib, seaborn)
--PostgreSQL
--Excel (Power Query, Logical, Date & Time, Lookup & Reference, Math & Trigonometric);
--Dashboard (Power BI, Data Studio)
--Site Analytics (Google Analytics, Adobe)
--Target Analysis and Research (Roy Morgan, Amobee Business Intelligence, comScore, TGI, Monitor, Marplan, Nielsen),
--Account Management (Client Forecasting, Team, Client portfolio)
--Team management and development
--Digital Media Planning (including Addressable set up and AdOps process)
--Martech: Tealium Audience Stream
-
-You can find me at https://www.linkedin.com/in/gus-furtado/ 
+And you can find me at https://www.linkedin.com/in/gus-furtado/ 
 
 Cheers,
 Gus
